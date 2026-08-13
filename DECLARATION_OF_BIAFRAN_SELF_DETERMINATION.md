@@ -303,6 +303,6 @@ We submit our political future to the people.
 
 | Name | Community or constituency | Basis of mandate | Signature | Date |
 |------|---------------------------|------------------|-----------|------|
-|      |                           |                  |           |      |
+|   Nnamdi Michael Okpala   |      OBINexus MMUCO ORION Civilan                     |     Soverignity             |      nmo     |    13.08.2026  |
 |      |                           |                  |           |      |
 |      |                           |                  |           |      |
