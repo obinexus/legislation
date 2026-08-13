@@ -1,11 +1,11 @@
 # DECLARATION OF THE BIAFRAN PEOPLE’S RIGHT TO
-# SELF-DETERMINATION AND PEACEFUL INDEPENDENCE
+# SELF-DETERMINATION AND PEACEFUL INDEPENDENCE and Sovernity
 
 **Draft for Public Consultation and Democratic Ratification**
 
-**Proposed date of adoption:** [DATE]  
-**Place of adoption:** [PLACE]  
-**Adopting body:** [REPRESENTATIVE BIAFRAN ASSEMBLY OR CONGRESS]
+**Proposed date of adoption:** 13.08.2026  
+**Place of adoption:** Nigeria
+**Adopting body:** OBINexus MMUCO OSes, Biafrans
 
 ---
 
@@ -298,7 +298,7 @@ We commit ourselves to peace.
 
 We submit our political future to the people.
 
-**Signed:**
+**Signed:** Nnamdi Michael Okpala
 
 | Name | Community or constituency | Basis of mandate | Signature | Date |
 |------|---------------------------|------------------|-----------|------|
