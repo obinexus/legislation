@@ -5,7 +5,7 @@
 
 **Proposed date of adoption:** 13.08.2026  
 **Place of adoption:** Nigeria
-**Adopting body:** OBINexus MMUCO OSes, Biafrans
+**Adopting body:** OBINexus MMUCO OSes, Biafra
 
 ---
 
