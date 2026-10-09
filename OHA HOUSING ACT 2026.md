@@ -54,7 +54,7 @@ In this Act:
 3. The Authority shall actively seek suitable housing and shall not treat placing a person on a waiting list as sufficient assistance.
 4. A lack of available permanent housing must be recorded honestly, together with interim arrangements, responsible officers and a review date.
 
-### Section 6 — Equality and autonomy
+### Section 6 — Equity and autonomy
 
 1. Housing decisions must not discriminate on grounds of neurodivergence, disability, ethnicity, sex, religion or other personal characteristics unrelated to a lawful eligibility requirement.
 2. A diagnosis, speech difficulty, unconventional communication or request for support shall not by itself be treated as evidence of inability to live independently.
